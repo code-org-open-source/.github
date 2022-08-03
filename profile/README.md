@@ -1,6 +1,6 @@
 ## Hey There, 👋
 
-<img src="https://github.com/code-org-open-source/.github/blob/main/images/rain.png?raw=true" width="1000" height="350" />
+<img src="https://github.com/code-org-open-source/.github/blob/main/images/computer.png?raw=true" width="1000" height="350" />
 
 **We make *Open-Source* [Projects](https://github.com/orgs/code-org-open-source/repositories) to power your **[Code.org](https://code.org)** projects. From libraries, to desktop applications, to even remakes of the existing projects, we help make your projects easier. You can even contribute to our projects!** 
 
