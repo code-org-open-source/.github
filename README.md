@@ -1,2 +1,0 @@
-# .github
-Our Github profile
