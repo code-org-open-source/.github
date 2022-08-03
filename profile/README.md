@@ -16,5 +16,7 @@ Want to help us by Coding? Open a [pull-request](https://docs.github.com/en/pull
 - Documentation   
 Know everything about how our [Project](https://github.com/orgs/code-org-open-source/repositories) works? Write some documentation to help other people know how it works! 📖
 
+**View our Communities Projects [here](https://github.com/code-org-open-source/projects/blob/main/README.md).**
+
 <sub>Logo made by the amazing [@cq](https://studio.code.org/projects/applab/rn3dmRRRX5Jo8vAQEkp0KmoLdtMvuZJTkjk5ERuPBcg?user=17)!</sub>   
 <sub><sub>We are not affiliated, associated, authorized, or endorsed by Code.org.</sub></sub>
