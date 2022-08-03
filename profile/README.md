@@ -1,7 +1,7 @@
 ## Hey There, 👋
 
 <a>
-  <img width="40%" src="https://github.com/code-org-open-source/.github/blob/main/images/computer.png?raw=true" align="right" />
+  <img width="40%" src="https://github.com/code-org-open-source/assets/blob/main/assets/Modern-Code.png?raw=true" align="right" />
 </a>
 
 **We make *Open-Source* [Projects](https://github.com/orgs/code-org-open-source/repositories) to power your **[Code.org](https://code.org)** projects. From libraries, to desktop applications, to even remakes of the existing projects, we help make your projects easier. You can even contribute to our projects!** 
